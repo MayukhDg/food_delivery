@@ -1,0 +1,1 @@
+export const navlinks = ["Home", "Cart", "Restaurants"];
